@@ -51,7 +51,7 @@ export default {
 
 ---
 
-### 💅 Adding Tailwind to CSS
+### 💅 Add Tailwind to CSS
 
 In `src/index.css`, add the following:
 
